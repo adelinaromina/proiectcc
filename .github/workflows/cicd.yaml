@@ -3,7 +3,7 @@ name: Deploy to Cloud Run
 env:
   SERVICE_NAME: proiectcc
   PROJECT_ID: cc-2024-2025-453119
-  DOCKER_IMAGE_URL: us-central1-docker.pkg.dev/cc-2024-2025-453119/cloud-run-source-deploy/proiectcc:latest
+  DOCKER_IMAGE_URL: us-central1-docker.pkg.dev/cc-2024-2025-453119/cloud-run-source-deploy/proiectcc
 
 
 on:
